@@ -1,0 +1,16 @@
+/* style the "exercitiu" class> */
+.exercitiu {
+    background-color: rgba(255, 0, 0, 0.3);
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+.exercitiu.test {
+    font-size: 24px;
+}
+#doi {
+    color: #0000ff;
+    font-size: 36px;
+}
+#patru {
+    background-color: rgba(89, 252, 89, 0.3);
+    font-weight: bold;
+}
